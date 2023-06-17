@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahdomingos&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/sarahdomingos/sarahdomingos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sarahdomingos/sarahdomingos/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
