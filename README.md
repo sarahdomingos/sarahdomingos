@@ -44,6 +44,4 @@ as I am always open to expanding my knowledge and learning new things😊
 ---
 
 ![CatTypingGIF](https://github.com/sarahdomingos/sarahdomingos/assets/92494941/ee740d9d-91e6-4a92-8477-99c5c6562141)
-> I swear, I'm doing my best to feed this snake!🤓
-
-![snake gif](https://github.com/sarahdomingos/sarahdomingos/blob/output/github-contribution-grid-snake-dark.svg)
+> Just coding, keep scrolling!🤓
